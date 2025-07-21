@@ -158,7 +158,6 @@ const API_SITES = {
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "name": "lsb资源"
     }
-   } 
    // dyttzy: {
    //     api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
    //     name: '电影天堂资源',
